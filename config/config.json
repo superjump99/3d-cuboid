@@ -1,0 +1,16 @@
+{
+  "datasets": [
+    {
+      "name": "dataset1",
+      "sequences": [
+        "ONE"
+      ]
+    },
+    {
+      "name": "OneDay",
+      "sequences": [
+        "ONE", "TWO"
+      ]
+    }
+  ]
+}
